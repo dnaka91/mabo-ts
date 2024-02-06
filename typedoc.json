@@ -1,0 +1,17 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "plugin": [
+    "typedoc-plugin-mdn-links"
+  ],
+  "excludeInternal": true,
+  "excludePrivate": true,
+  "sourceLinkExternal": true,
+  "navigationLinks": {
+    "Mabo Project": "https://dnaka91.github.io/mabo",
+    "GitHub": "https://github.com/dnaka91/mabo-ts"
+  },
+  "sort": [
+    "kind",
+    "source-order"
+  ]
+}
